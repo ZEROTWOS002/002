@@ -1,0 +1,326 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+
+}
+body{
+    
+    background-image: url('blue_bg (1).png');
+    background-size: cover;
+    background-repeat:no-repeat;
+    width: 150;
+    height: 0vh;
+}
+
+
+
+
+.avatar{
+    width: 170px;
+
+}
+
+.nav-left{
+    display: flex;
+    text-indent: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 180px;
+    color: hsla(0, 3%, 31%, 0.808);
+    size: 20px;
+    
+}
+
+
+
+
+.vv{
+width: 60px;
+height: 30px;
+size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+.navright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 250px;
+
+}
+.ss{
+    display: flex;
+    text-indent: 10px;
+    justify-content: center;
+    
+    margin-left: 180px;
+    color: hsla(0, 3%, 31%, 0.808);
+    size: 20px;
+
+
+}
+
+.ssse{
+    display: flex;
+    left: 270px;
+    bottom: -44vh;
+justify-content: center;
+    
+    
+
+}
+.dd{
+    text-decoration-line: none;
+    
+}
+section{
+width: 100 px;
+height: 30px;
+display: flex;
+align-items: center;
+margin-bottom: 600px;
+
+}
+
+.ss{ 
+justify-content: space-between;
+}
+
+.x{
+size: 5px;
+}
+.z{
+size: 5px;
+height: 5vh;
+}
+
+
+
+
+
+
+
+
+
+.h{position: absolute;
+width: 700px;
+top: 10px;
+right: 0px
+}
+
+.a{position: absolute;
+width: 250px;
+top: 50px;
+right: 250px;
+}
+.l{position: absolute;
+    width: 550px;
+    top: 350px; ;
+    right: 15px;
+    
+    }
+
+
+.p{position: absolute;
+    width: 950px;
+    bottom: 100px; 
+    
+    }
+
+
+.cnr{position: absolute;
+width: 150px;
+bottom: -65vh;
+left: 120px;
+}
+.cv{position: absolute;
+    size: 5px;
+    width: 150px;
+    bottom: -72vh;
+    left: 122px;
+    justify-content: space-between;
+}
+.cb{position: absolute;
+    width: 150px;
+    bottom: -85vh;
+    left: 118px;
+    size: 5px;
+    justify-content: space-between;
+}
+
+.llol{position: absolute;
+    width: 10px;
+    height: 5px;
+    bottom: -30vh;
+    left: 115px;
+
+}
+
+.nnn{position: absolute;
+    width: 240px;
+    bottom: -100vh;
+    left: 550px;
+
+}
+
+.ddd{position: absolute;
+    width: 80px;
+    bottom: -119vh;
+    left: 590px;
+    size: 5px;
+    justify-content: space-between;
+}
+.bbb{position: absolute;
+    width: 150px;
+    bottom: -135vh;
+    left: 600px;
+    size: 5px;
+    justify-content: space-between;
+}
+
+.vvv{position: absolute;
+    width: 240px;
+    bottom: -153vh;
+    left: 1030px;
+color: #14061fe1;
+}
+.xxx{position: absolute;
+    width: 150px;
+    bottom: -160vh;
+    left: 1050px;
+    size: 5px;
+    justify-content: space-between;
+
+}
+
+.cccq{position: absolute;
+    width: 150px;
+    bottom: -180vh;
+    left: 1045px;
+    size: 5px;
+    justify-content: space-between;
+
+}
+
+
+.vvvx{position: absolute;
+    width: 300px;
+    bottom: -170vh;
+    left: 120px;
+
+}
+
+
+.mvp{position: absolute;
+    width: 200px;
+    bottom: -270vh;
+    left: 150px;
+
+}
+
+.cia{position: absolute;
+    width: 400px;
+    bottom: -270vh;
+    left: 450px;
+
+}
+.mep{position: absolute;
+    width: 200px;
+    bottom: -270vh;
+    left: 900px;
+
+}
+
+.ttt{position: absolute;
+    width: 150px;
+    bottom: -290vh;
+    left: 550px;
+    text-size-adjust: 3px;
+    justify-content: space-between;
+
+
+}
+
+.nnnj{position: absolute;
+    width: 150px;
+    bottom: -310vh;
+    left: 550px;
+    text-size-adjust: 3px;
+    justify-content: space-between;
+
+}
+
+.mmmr{position: absolute;
+    width: 150px;
+    bottom: -210vh;
+    left: 270px;
+    text-size-adjust: 3px;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+.maw{position: absolute;
+    width: 500px;
+    bottom: -410vh;
+    left: 650px;
+
+}
+
+.mad{position: absolute;
+    width: px;
+    bottom: -400vh;
+    left: 90px;
+
+}
+
+.sad{position: absolute;
+    width: px;
+    bottom: -400vh;
+    left: 130px;
+
+}
+.cir{position: absolute;
+    width: px;
+    bottom: -400vh;
+    left: 100px;
+
+}
+
+.ggj{position: absolute;
+    width: px;
+    bottom: -400vh;
+    left: 50px;
+
+}
+.mmmkl{position: absolute;
+    width: 1300px;
+    bottom: -430vh;
+    left: 10px;
+
+}
+
+
+
+
